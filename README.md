@@ -102,7 +102,7 @@ for bulan in range(1, 9):
 print(f"Total laba adalah: {total_laba}")
 ```
 # Output Program
-
+![Flowchart](https://github.com/fitrirmdhni22/lab3.py/blob/main/hasilrun2.png?raw=true)
 
 # Cara Kerja Program
 Program berjalan dalam loop delapan kali, menghitung laba berdasarkan bulan, mencetak laba bulanan, dan menambahkan laba tersebut ke total_laba. Setelah selesai, program menampilkan total laba yang diperoleh selama delapan bulan.

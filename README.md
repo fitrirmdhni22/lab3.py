@@ -35,7 +35,7 @@ print("Selesai")
 
 ```
 # Output Program
-
+![Flowchart](https://github.com/fitrirmdhni22/lab3.py/blob/main/hasilrun1.png)
 
 # Cara  Kerja Program
 1. Meminta Input Pengguna:

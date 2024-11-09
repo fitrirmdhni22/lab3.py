@@ -57,7 +57,7 @@ print("Selesai")
 Menghitung keuntungan pengusaha investasi
 
 # Deskripsi Program 
-Program ini bertujuan untuk menghitung dan menampilkan laba yang diperoleh setiap bulan selama periode delapan bulan, berdasarkan persentase laba yang berbeda setiap dua bulan. Berikut adalah deskripsi lengkap dari cara kerja program:
+Program ini bertujuan untuk menghitung dan menampilkan laba yang diperoleh setiap bulan selama periode delapan bulan, berdasarkan persentase laba yang berbeda setiap dua bulan. Berikut adalah deskripsi program:
 1. Inisialisasi Modal Awal:
 -Program dimulai dengan mendefinisikan variabel modal_awal sebesar 100 juta (100,000,000) sebagai modal awal usaha.
 -Variabel total_laba juga diinisialisasi ke 0 untuk menyimpan jumlah keseluruhan laba yang diperoleh selama delapan bulan.
